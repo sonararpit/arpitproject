@@ -3,7 +3,7 @@ package javapratices;
 public class ArrayInjava {
 
 	public static void main(String[] args) {
-		// declaration + initialization
+	// declaration + initialization
 		String ss[] = new String[4];
 
 		// storing elements in array
